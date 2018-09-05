@@ -1,0 +1,27 @@
+   <div id="searchForm">
+	<form action="search.php" method="post">
+	    
+	    <div class="form-group">
+	        <label for="title">Title:</label>
+	        <input type="text"  name="search_title"  placeholder="">
+	    </div>
+	    
+	    <div class="form-group">
+	        <label for="">Category</label>
+	        <input type="text"  name="search_category" placeholder="">
+	    </div>
+	    
+	    <div class="form-group">
+	        <label for="">Tags</label>
+	        <input type="text"  name="serach_tags"  placeholder="">
+	    </div>
+	    
+	    <div class="form-group">
+	        <label for="">Ingredients:</label>
+	        <input type="text"  name="search_ingredients"  placeholder="">
+	    </div>
+	    
+	    <input type="submit" value="Search Recipe">
+	    
+	</form>
+</div>
