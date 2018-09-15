@@ -35,7 +35,7 @@ Basic Functions:
 -Searching with multiple criteria
 
 
-****Advanced Functions
+Advanced Functions
 
 -Ranking recipes based on their ratings, tags and comments
 
