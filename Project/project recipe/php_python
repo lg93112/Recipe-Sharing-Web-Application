@@ -1,6 +1,0 @@
-    <?php
-    $python = `python hello.py`;
-    echo $python;
-    ?>
-
-   
